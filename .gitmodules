@@ -1,0 +1,6 @@
+[submodule "nattradion"]
+	path = nattradion
+	url = https://github.com/jpburstrom/nattradion
+[submodule "sc-hacks-redux"]
+	path = sc-hacks-redux
+	url = https://github.com/iani/sc-hacks-redux.git
