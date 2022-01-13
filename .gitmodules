@@ -4,3 +4,12 @@
 [submodule "sc-hacks-redux"]
 	path = sc-hacks-redux
 	url = https://github.com/iani/sc-hacks-redux.git
+[submodule "oscGBuild"]
+	path = oscGBuild
+	url = https://github.com/RossBencina/oscgroups.git
+[submodule "oscgroups"]
+	path = oscGBuild/oscgroups
+	url = https://github.com/RossBencina/oscgroups.git
+[submodule "oscpack"]
+	path = oscGBuild/oscpack
+	url = https://github.com/RossBencina/oscpack.git
