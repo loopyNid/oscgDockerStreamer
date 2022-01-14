@@ -1,6 +1,6 @@
 The purpose of this container is to live-stream networked live-coding performances. It runs Supercollider and OscGroupsClient.
 ## TODO
-### SC oscgroups class
+
 1. Add`this.enable` to the init function of the OscGroups class in sc-hacks-redux.
 2. GUI class of sc-hacks-redux throws error because the supercollider in the container is headless.
 
